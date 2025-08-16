@@ -11,8 +11,6 @@
 
 ## 🚀 About Me  
 
-## 🚀 About Me  
-
 I am a **Senior Software Engineer** with 7+ years of experience building **scalable and high-performance applications** across diverse industries, including finance, insurance, pensions, manufacturing, and gaming.  
 
 Beyond being a developer, I bring **strong leadership and business acumen**:  
